@@ -1,0 +1,3 @@
+1) Temperature increases as latitude decreases. This make sense because lower latitudes are closer to the equator, and thus hotter weather.
+2) No clear correlation between latitude and humidity. This is perhaps because humidity is affected more by landscape type such as forest vs. desert vs. seaside; and these landscape type can exist at any latitude.
+3) No clear correlation between latitude and wind. Given that wind is simply the movement of air from high pressure to low pressure regions, perhaps we should explore the relationship between latitude & high/low air pressure to better understand potential correlation.
